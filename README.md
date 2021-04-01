@@ -2,8 +2,10 @@
 
 _Thanks for stopping by._
 
-I'm a creative team player seeking to use my leadership qualities & technical competencies to create solutions that matter.
-Currently inculcating strong learning & work ethics to develop intuitive & intelligent web applications.
+A secular_developer in the making...
+
+Creative team player learning to leverage my leadership qualities & technical competencies to develop solutions that matter.
+Trying to inculcate strong learning & work ethics to achieve Simplicity (aka "the ultimate sophistication").
 
 To connect with me,
 
