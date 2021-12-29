@@ -2,10 +2,10 @@
 
 _Thanks for stopping by._
 
-A secular_developer in the making...
+Acclimatizing to the nuances of software craftsmanship.
 
 Creative team player learning to leverage my leadership qualities & technical competencies to develop solutions that matter.
-Trying to inculcate strong learning & work ethics to achieve Simplicity (aka "the ultimate sophistication").
+Trying to inculcate strong learning & work ethics.
 
 To connect with me,
 
