@@ -27,6 +27,9 @@ My Github Stats:
   <img src = "https://github-readme-stats.vercel.app/api?username=ssbarik&show_icons=true&theme=radical&line_height=27">
 </p>
 
+[![@ssbarik's Holopin board](https://holopin.io/api/user/board?user=ssbarik)](https://holopin.io/@ssbarik)
+
+
 ---
 
 <p align = "center">
