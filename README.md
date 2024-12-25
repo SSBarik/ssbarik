@@ -1,4 +1,4 @@
-<!-- ### Hi 👋 I am Shashank!
+### Hi 👋 I am Shashank!
 
 _Thanks for stopping by._
 
@@ -19,20 +19,27 @@ To connect with me,
 </p>
 
 ---
-My Github Stats: 
+
+### My Github Stats:
 
 <br>
- -->
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ssbarik&show_icons=true&theme=radical&line_height=27">
 </p>
 
-[![@ssbarik's Holopin board](https://holopin.io/api/user/board?user=ssbarik)](https://holopin.io/@ssbarik)
+### My Language Contributions:
 
+<br>
+
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssbarik&layout=compact&theme=radical&langs_count=10">
+</p>
+
+[![@ssbarik's Holopin board](https://holopin.io/api/user/board?user=ssbarik)](https://holopin.io/@ssbarik)
 
 ---
 
 <p align = "center">
   <b>Happy Coding :)</b>
 </p>
-
