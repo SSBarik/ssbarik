@@ -7,7 +7,6 @@
   <img src="https://streak-stats.demolab.com?user=ssbarik&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssbarik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssbarik&theme=material-palenight&custom_title=Contribution%20Graph" height="150" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ssbarik&theme=nord&margin-w=2&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -54,12 +53,6 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ssbarik/ssbarik/output/snake.svg" alt="Snake animation" />
 
 ###
 
