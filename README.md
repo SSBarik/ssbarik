@@ -24,16 +24,9 @@ To connect with me,
 
 <br>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ssbarik&show_icons=true&theme=radical&line_height=27">
-</p>
-
-### My Language Contributions:
-
-<br>
-
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssbarik&layout=compact&theme=radical&langs_count=10">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssbarik&show_icons=true&theme=radical&line_height=27" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssbarik&layout=compact&theme=radical&langs_count=10" width="48%">
 </p>
 
 [![@ssbarik's Holopin board](https://holopin.io/api/user/board?user=ssbarik)](https://holopin.io/@ssbarik)
