@@ -24,7 +24,7 @@ To connect with me,
 
 ![ssbarik's Stats](https://github-readme-stats.vercel.app/api?username=ssbarik&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![ssbarik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssbarik&theme=radical&hide_border=true)
-![ssbarik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbarik&theme=radical&show_icons=true&hide_border=true&layout=compact&count_private=true)
+![ssbarik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbarik&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
 [![@ssbarik's Holopin board](https://holopin.io/api/user/board?user=ssbarik)](https://holopin.io/@ssbarik)
