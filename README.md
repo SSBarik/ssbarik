@@ -33,6 +33,9 @@ To connect with me,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssbarik&theme=radical&hide_border=true" width="48%">
 </p>
 
+![ssbarik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbarik&theme=radical&show_icons=true&hide_border=true&layout=compact&count_private=true)
+
+
 [![@ssbarik's Holopin board](https://holopin.io/api/user/board?user=ssbarik)](https://holopin.io/@ssbarik)
 
 ---
