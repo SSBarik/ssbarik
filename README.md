@@ -9,7 +9,7 @@
 </div> -->
 
 ###
-<h4 align="left">Current Stack</h4>
+<h4 align="left">Current Tech Stack</h4>
 
 <!-- Frameworks & Libraries -->
 <p align="left"><sub>Frameworks & libraries I build with</sub></p>
