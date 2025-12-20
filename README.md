@@ -16,36 +16,48 @@
 <!-- Frameworks & Libraries -->
 <p align="center"><sub>Frameworks & libraries I build with</sub></p>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo" />
-  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="nextjs logo" />
+
 </div>
 
 <!-- State & Data -->
 <p align="center"><sub>State management and data handling</sub></p>
 <div align="center">
-  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-color-600_GMhVu9nhu.png" height="36" alt="tanstack query logo" />
+  
+</div>
+
+<!-- UI -->
+<p align="center"><sub>Styling and component systems</sub></p>
+<div align="center">
+  
+</div>
+
+<!-- Foundations -->
+<p align="center"><sub>Core web fundamentals</sub></p>
+<div align="center">
+ 
+</div>
+###
+<h4 align="left">Current Tech Stack</h4>
+
+<!-- <p align="left"><sub>AI-powered tools that augment my development workflow</sub></p> -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo" />
+  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="nextjs logo" />
+  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-color-600_GMhVu9nhu.png" height="36" alt="tanstack query logo" />  
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" height="36" alt="zustand logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="36" alt="redux logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
-</div>
-
-<!-- UI -->
-<p align="center"><sub>Styling and component systems</sub></p>
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="tailwindcss logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://ik.imagekit.io/q4rna6net/logos/apple-touch-icon_3EmrPphUA.png" height="36" alt="shadcn logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="36" alt="materialui logo" />
-</div>
-
-<!-- Foundations -->
-<p align="center"><sub>Core web fundamentals</sub></p>
-<div align="center">
+  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo" />
@@ -53,23 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript logo" />
-</div>
-###
-<h4 align="left">Current Tech Stack</h4>
-
-<!-- <p align="left"><sub>AI-powered tools that augment my development workflow</sub></p> -->
-<div align="left">
-  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
-  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
-  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
-    <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
-  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
-  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
 </div>
 
 ###
