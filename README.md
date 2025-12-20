@@ -4,7 +4,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ssbarik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=Shashank's%20GitHub%20stats" height="150" alt="stats graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=ssbarik&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssbarik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="200" alt="languages graph"  />
@@ -41,30 +41,30 @@
 
 <!-- <p align="left"><sub>AI-powered tools that augment my development workflow</sub></p> -->
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/React-icon.svg_KSC3dNvwg.png" height="36" alt="react logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="nextjs logo" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/nextjs-original_YKmdPdlh8.png" height="36" alt="nextjs logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://ik.imagekit.io/q4rna6net/logos/logo-color-600_GMhVu9nhu.png" height="36" alt="tanstack query logo" />  
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" height="36" alt="zustand logo" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/8Ftiu7JpWs1SHrFXk0eOXoTdpz15DpBAa_Z866GLte1t0vSiV7qmAHRuTUbqAmbJeM7uTzZUlAoP7YU-FTXsWQ_AvwbuApNzP.webp" height="36" alt="zustand logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="36" alt="redux logo" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/redux_MSDlZpmqva.svg" height="36" alt="redux logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="tailwindcss logo" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/Tailwind_CSS_Logo.svg_aBo3Rs1rU.png" height="36" alt="tailwindcss logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://ik.imagekit.io/q4rna6net/logos/apple-touch-icon_3EmrPphUA.png" height="36" alt="shadcn logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="36" alt="materialui logo" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/material-ui-1_GUWt919qA.svg" height="36" alt="materialui logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/css-3_G17JInof7.svg" height="36" alt="html5 logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/html-1_rPjGB3bhCk.svg" height="36" alt="css3 logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/javascript-1_kwukLkEHRw.svg" height="36" alt="javascript logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript logo" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/typescript_fDqKwhHW1.svg" height="36" alt="typescript logo" />
 </div>
 
 ###
