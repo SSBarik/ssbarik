@@ -57,7 +57,7 @@
 
 ###
 
-[![@ssbarik's Holopin board](https://holopin.io/api/user/board?user=ssbarik)](https://holopin.io/@ssbarik)
+[![An image of @ssbarik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ssbarik)](https://holopin.io/@ssbarik)
 
 ---
 
