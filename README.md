@@ -54,12 +54,31 @@
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript logo" />
 </div>
-
 ###
-<h4 align="center">Agentic AI Development Environment</h4>
+<h4 align="left">Current Tech Stack</h4>
 
 <!-- <p align="left"><sub>AI-powered tools that augment my development workflow</sub></p> -->
-<div align="center">
+<div align="left">
+  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
+  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
+  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
+    <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
+  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
+  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/logo-glow_WqBULP699.webp" height="36" alt="zod logo" />
+</div>
+
+###
+
+###
+<h4 align="left">Agentic AI Development Environment</h4>
+
+<!-- <p align="left"><sub>AI-powered tools that augment my development workflow</sub></p> -->
+<div align="left">
   <img src="https://ik.imagekit.io/q4rna6net/logos/medium_Warp_s_modern_logo_with_a_stylized_W_c25a1767dc__D_Ro7Q53R.webp" height="50" alt="warp logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://ik.imagekit.io/q4rna6net/logos/Cursor_Vector_Logo_8bAZnNKjH.png" height="50" alt="cursor logo" />
