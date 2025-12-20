@@ -65,6 +65,11 @@
   <img src="https://ik.imagekit.io/q4rna6net/logos/Cursor_Vector_Logo_8bAZnNKjH.png" height="50" alt="cursor logo" />
   <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
   <img src="https://ik.imagekit.io/q4rna6net/logos/57279caf8af06fd8bdeb8fd23b65284d882ff0555ad85a5389b08ab50504569a_200_WkgtH3qEm.webp" height="50" alt="antigravity logo" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/medium_Warp_s_modern_logo_with_a_stylized_W_c25a1767dc__D_Ro7Q53R.webp" height="50" alt="warp logo" />
+  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/Cursor_Vector_Logo_8bAZnNKjH.png" height="50" alt="cursor logo" />
+  <img src="https://via.placeholder.com/8x1/00000000/00000000" width="8" height="1" />
+  <img src="https://ik.imagekit.io/q4rna6net/logos/57279caf8af06fd8bdeb8fd23b65284d882ff0555ad85a5389b08ab50504569a_200_WkgtH3qEm.webp" height="50" alt="antigravity logo" />
 </div>
 
 ###
